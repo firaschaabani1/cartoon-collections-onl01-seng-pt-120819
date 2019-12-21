@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls# code an argument here
 
-if long_planeteer_calls.lenght <4 
+if long_planeteer_calls.lenght <4
   return "false"
 else return"true"  # Your code here
 end
