@@ -1,6 +1,6 @@
 def roll_call_dwarves# code an argument here
   names = ["Doc", "Dopey", "Bashful", "Grumpy"]
-  names.each 
+  names.each
   puts (names)#Your code here
 end
 
