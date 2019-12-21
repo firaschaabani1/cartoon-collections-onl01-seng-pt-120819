@@ -11,7 +11,10 @@ planeteer_calls. {|call| puts call + '!'}
 end
 
 def long_planeteer_calls# code an argument here
-  # Your code here
+
+if long_planeteer_calls.lenght <4 
+  return "false"
+else return"true"  # Your code here
 end
 
 def find_the_cheese# code an argument here
